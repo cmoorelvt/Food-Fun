@@ -3,6 +3,8 @@
 
 Live Link to group project: https://austinkst.github.io/FoodandFun/
 
+Live link to this repo: https://cmoorelvt.github.io/Food-Fun/
+
 
 ## Background
 As a person that loves finding new places to eat, and enjoying music and local events, I need an appplication that can quickly display this information. Introducing Food&Fun. We hope to answer the need for a speedy search and provide a weather forecast for your outing. The applications is responsive and displays perfectly on mobile devices.
