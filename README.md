@@ -1,7 +1,7 @@
 # Food&Fun: Project 1
 
 
-Live Link: https://austinkst.github.io/FoodandFun/
+Live Link to group project: https://austinkst.github.io/FoodandFun/
 
 
 ## Background
